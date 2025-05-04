@@ -17,8 +17,6 @@ We find that:
 - Individual-level attitudes and behaviors during conversation account for much more variation than topic-level features.
 - Behavioral self-reports, such as listening and perspective-taking, strongly correlate with positive affective change, though these measures are post hoc and correlational.
 
----
-
 ## 📂 Repository Contents
 
 ### 🧪 Code Notebooks
@@ -28,8 +26,6 @@ We find that:
 
 - **`analyze_topics_pretest.ipynb`**
   Documents the pre-survey process used to select the final set of 10 discussion topics from an initial pool of 174. Includes exploratory analyses and figures for the supplement.
-
----
 
 ### 📊 Figures (PDFs)
 
@@ -42,16 +38,12 @@ All figures used in the main paper and supplement are exported as standalone PDF
 - `fig_change_histograms_kde.pdf` – outcome distributions
 - ...and others (see file list for full set)
 
----
-
 ### 📀 Tables (LaTeX exports)
 
 - `table_primary_predictors.tex`, `table_secondary_predictors_attributes.tex`, `table_secondary_predictors_behavior.tex` – coefficient tables from regression models
 - `table_r2_comparison.tex` – explained variation by predictor group
 - `table_univariate_rope.tex` – Bayesian ROPE analysis results
 - `table_attrition_t_test.tex` – sample attrition checks
-
----
 
 ### 📁 Data Files
 
@@ -75,8 +67,6 @@ All figures used in the main paper and supplement are exported as standalone PDF
 
 - `study_data.csv`
   Final merged and cleaned dataset from the experiment, ready for analysis.
-
----
 
 ## 🔍 Citation
 
