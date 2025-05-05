@@ -73,4 +73,4 @@ All figures used in the main paper and supplement are exported as standalone PDF
 
 Please cite the study as:
 
-> Houghton, J., Watts, D. “The Role of Topic Choice in Cross-Partisan Conversations.”
+> Houghton, J., Watts, D. “The Role of Topic Choice in Cross-Partisan Conversations.” Working Manuscript. 2025.
