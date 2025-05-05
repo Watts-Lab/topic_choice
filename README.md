@@ -14,8 +14,9 @@ This study investigates whether certain conversation topics are more effective t
 We find that:
 
 - While some topics consistently produce better average results, the topics political nature or the disagreement between participants explain little of that variation.
-- Individual-level attitudes and behaviors during conversation account for much more variation than topic-level features.
-- Behavioral self-reports, such as listening and perspective-taking, strongly correlate with positive affective change, though these measures are post hoc and correlational.
+- Outcomes varied widely within topics.
+- Individual-level attributes (demographics, psychometrics, and attitudes attributes) were also poor predictors of outcomes.
+- Behavioral self-reports, such as listening and perspective-taking, strongly correlate with positive affective change, though these measures are post hoc and correlational, implying the need for a study that manipulates behaviors.
 
 ## 📂 Repository Contents
 
