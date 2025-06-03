@@ -4,6 +4,7 @@ This repository contains the full dataset and analysis code for the paper:
 **“The Role of Topic Choice in Cross-Partisan Conversations”**
 _Authors: James Houghton, Duncan Watts_
 _Date: Under Review 2025_
+[https://osf.io/preprints/socarxiv/nygt3_v1/](https://osf.io/preprints/socarxiv/nygt3_v1/)
 
 ---
 
