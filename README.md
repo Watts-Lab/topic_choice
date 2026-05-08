@@ -1,8 +1,8 @@
-# The Role of Topic Choice in Cross-Partisan Conversations: Dataset and Analysis
+# The Role of Topic Choice in Cross-Partisan Conversation: Dataset and Analysis
 
 This repository contains the full dataset and analysis code for the paper:
 
-**"The Role of Topic Choice in Cross-Partisan Conversations"**
+**"The Role of Topic Choice in Cross-Partisan Conversation"**
 _James Houghton, Gus Cooney, Duncan Watts_
 (2026) [https://osf.io/preprints/socarxiv/nygt3_v3/](https://osf.io/preprints/socarxiv/nygt3_v1/)
 
@@ -10,7 +10,7 @@ _James Houghton, Gus Cooney, Duncan Watts_
 
 ## Abstract
 
-_Affective polarization in the United States — animosity between Republicans and Democrats — has escalated for decades, threatening the health of American democracy. Research on intergroup contact suggests that talking across party lines can reduce polarization, yet studies disagree on whether confronting or avoiding political disagreement is the more effective strategy. We address this debate using a large-scale integrative experiment in which Republicans and Democrats engaged in face-to-face video conversations, with levels of disagreement and political relevance systematically varied across a diverse set of topics. While some topics reduced affective polarization more than others, how "political" a topic was did not predict which conversations went well. Moreover, topic assignment explained just 2% of the variance in individual outcomes, with people assigned to the same topic often having entirely different experiences. What did correlate with conversational success was how individuals experienced the interaction (i.e., whether their partner listened, took their perspective, and made them feel heard). We suggest a shift in focus from choosing the "right" topic to understanding the detailed interactional dynamics that make cross-partisan conversation succeed._
+_Animosity between Republicans and Democrats has escalated for decades, threatening the health of American democracy. Research on intergroup contact suggests that talking across party lines can reduce this affective polarization, yet studies disagree on whether confronting or avoiding political disagreement is the more effective strategy. We address this debate using a large-scale integrative experiment in which Republicans and Democrats engaged in live video conversations, with levels of disagreement and political relevance systematically varied across a diverse set of topics. While some topics reduced affective polarization more than others, no measure of a topic’s “politicalness” predicted which conversations went well. Moreover, topic assignment explained just 1-2% of the outcome variance in our sample, with people assigned to the same topic often having entirely different experiences. What did correlate with conversational success was how individuals experienced the interaction, for example, whether they felt their partner listened well, took their perspective, and made them feel heard. We suggest a shift in focus from choosing the “right” topic to understanding the detailed interactional dynamics that make cross-partisan conversation succeed._
 
 ## Repository Contents
 
