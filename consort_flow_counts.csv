@@ -1,0 +1,25 @@
+step,kind,label,participants,groups,screening,detail,on_figure
+1,retained,Began session,1823,,False,,False
+2,excluded,Voluntarily left before completing consent,51,,False,,False
+3,retained,Consented,1772,,False,,False
+4,excluded,Screened out by effort check,53,,True,"did not reproduce a target sentence exactly, or left rather than do so",False
+5,retained,Passed effort check,1719,,False,,False
+6,excluded,Screened out by equipment check,382,,True,"could not demonstrate a working camera, microphone, and headphones, or left rather than do so",False
+7,retained,Passed equipment check,1337,,False,,False
+8,excluded,"Voluntarily left, or screened out as non-US,
+during the pre-discussion surveys",34,,False,"27 left of their own accord and 7 were screened out for taking part from outside the US; they stopped during 23 trait ratings, 4 RME, 4 Big-5, 1 demographics, 1 topic pre-survey, 1 feeling thermometers",False
+9,retained,Completed all pre-discussion measures,1303,,False,,False
+10,excluded,"Voluntarily left during the countdown
+to the scheduled start",23,,False,"answered every question, then would not wait out the countdown; median 5 min of scheduled wait remained when they entered it",False
+11,retained,Entered the waiting room,1280,,False,,False
+12,excluded,"No cross-partisan partner available
+within the matching window",248,,False,matching required a counter-partisan in the waiting room at the same time whose position on an available topic completed an open condition cell,False
+13,retained,Partner and treatment assigned,1032,516,False,"10 topics; every measure above was collected before condition was assigned, and no participant saw their discussion topic until this point. Dispatch assigned complete dyads only, so this count comes from the 1032 preregistration records rather than the 1031 session records",False
+14,excluded,"Dropped after assignment,
+before reaching the conversation",31,,False,"1 dropped at dispatch and produced no session data at all; 30 more never had video recorded and never used the in-call reporting tool, so no evidence places them in the call",False
+15,retained,Reached the conversation,1001,,False,,False
+16,excluded,"Excluded because one or both partners
+reported problems with the call",185,108,False,"reported by one partner in 93 dyads and by both in 15. Everyone still in a failed dyad is excluded with it, including the partners of the participants who never arrived",False
+17,retained,Conversation took place,816,408,False,all complete dyads,True
+18,excluded,Did not complete the post-discussion survey,11,,False,partner retained in the analysis,True
+19,retained,Analyzed,805,407,False,"398 complete dyads, 9 single partners",True

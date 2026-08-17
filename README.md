@@ -38,6 +38,7 @@ All figures are exported as both PDF and PNG:
 | `fig_S6_no_conversation_control`   | Figure S6: Test-retest reliability from no-conversation control |
 | `fig_S7_disagreement_by_topic`     | Figure S7: Effect of dyadic disagreement broken out by topic    |
 | `fig_S8_manipulation_check`        | Figure S8: Partner party recall (manipulation check)            |
+| `fig_S9_consort_flow`              | Figure S9: CONSORT-style participant flow, arrival to analysis   |
 
 #### From `analyze_topics_pretest.ipynb`
 
@@ -96,6 +97,9 @@ All tables are rendered as pandas DataFrames within the notebook:
 
 - `no_conversation_control_data.csv`
   Test-retest control data from participants who completed pre- and post-test measures without a conversation.
+
+- `consort_flow_counts.csv`
+  Participant counts at each enrollment and exclusion stage, used to draw Figure S9. The stages before randomization (arrival, consent, attention check, equipment check, pre-discussion surveys, waiting room) are derived from the raw platform session records, which are too large to distribute here and are not needed to reproduce the figure; the notebook cell that regenerates this file from those records is included for documentation and is skipped when they are absent.
 
 ## Citation
 
